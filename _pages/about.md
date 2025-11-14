@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:>
   <p> shuqi005(at)e(dot)ntu(dot)edu(dot)sg </p>
 
 
