@@ -22,5 +22,5 @@ announcements:
 
 Welcome! I am currently a PhD student supervised by [Prof. Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) and [Prof. Bo An](https://personal.ntu.edu.sg/boan/) at Nanyang Technological University, Singapore. Before joining NTU, I completed my Master’s degree in Statistics from Nankai University and my Bachelor's degree in Mathematics from China Agricultural University.
 
-My research interest lies in trustworthy machine learning and uncertainty quantification.
+My research interests lie in trustworthy machine learning and uncertainty quantification.
 
