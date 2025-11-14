@@ -23,3 +23,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.author-highlight {
+  font-weight: 700;      /* 黑体 / 加粗 */
+  text-decoration: none; /* 去掉下划线 */
+}
