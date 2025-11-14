@@ -279,6 +279,8 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  use_raw_bibtex: true
+
   query: "@*"
   group_by: year
   group_order: descending
