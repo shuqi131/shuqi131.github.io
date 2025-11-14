@@ -11,6 +11,7 @@ profile:
     <p>social: true <p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true
 
 announcements:
   enabled: true # includes a list of news items
