@@ -23,5 +23,5 @@ Welcome! I am currently a PhD student supervised by [Prof. Luke Ong](https://www
 
 My research interests lie in trustworthy machine learning and uncertainty quantification.
 
-📧 shuqi005@e.ntu.edu.sg
+📧 shuqi005\[at\]e.ntu.edu.sg
 
