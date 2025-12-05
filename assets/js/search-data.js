@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-papers-was-accepted-by-aaai-26",
-          title: 'One papers was accepted by AAAI’26.',
+            },},{id: "news-one-paper-was-accepted-by-aaai-26",
+          title: 'One paper was accepted by AAAI’26.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
