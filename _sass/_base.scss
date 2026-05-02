@@ -746,6 +746,17 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
+      .row {
+        > [class*="col-"]:first-child {
+          flex: 0 0 auto;
+          max-width: 8%;
+        }
+        > [class*="col-"]:last-child {
+          flex: 0 0 auto;
+          max-width: 92%;
+        }
+      }
+
       .preview {
       }
 
