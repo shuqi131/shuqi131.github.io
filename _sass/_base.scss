@@ -1458,9 +1458,22 @@ body, p, li {
 
 h1, h2, h3 {
   color: #000000 !important;
+}
+
+h1 {
   font-weight: 700 !important;
 }
 
+// 但年份要保持灰色和细体
+h2.bibliography {
+  color: var(--global-divider-color) !important;
+  font-weight: 300 !important;
+  font-size: 4rem !important;
+  text-align: right !important;
+  border-top: 1px solid var(--global-divider-color) !important;
+  padding-top: 1rem !important;
+  margin-top: 2rem !important;
+}
 
 // ===== 强制恢复名字标题大小 =====
 // 名字标题
