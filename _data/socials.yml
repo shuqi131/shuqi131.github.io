@@ -2,15 +2,17 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+
+email: shuqi005@e.ntu.edu.sg # your email address
+dblp_url: https://dblp.org/pid/150/6805-2.html # your DBLP profile url
+scholar_userid: wcKKTC8AAAAJ&hl # your Google Scholar ID
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-dblp_url: https://dblp.org/pid/150/6805-2.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: shuqi005@e.ntu.edu.sg # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -34,7 +36,6 @@ email: shuqi005@e.ntu.edu.sg # your email address
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 #rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: wcKKTC8AAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
