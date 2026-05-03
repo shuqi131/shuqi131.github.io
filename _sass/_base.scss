@@ -1425,8 +1425,9 @@ figure.cover {
 }
 
 
-article > h2,
-article > h2 a {
+// ===== News / Publications 章节标题 (排除年份) =====
+article > h2:not(.bibliography),
+article > h2:not(.bibliography) a {
   font-weight: 780 !important;
   font-size: 1.8rem !important;
   color: var(--global-text-color) !important;
