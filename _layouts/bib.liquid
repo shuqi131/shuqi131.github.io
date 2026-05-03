@@ -206,9 +206,9 @@
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-lines"></i> Paper</a>
+          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file"></i> Paper</a>
         {% else %}
-          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-lines"></i> Paper</a>
+          <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file"></i> Paper</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
@@ -238,9 +238,9 @@
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
-          <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+          <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file-lines"></i> Poster</a>
         {% else %}
-          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+          <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-regular fa-file-lines"></i> Poster</a>
         {% endif %}
       {% endif %}
       {% if entry.slides %}
