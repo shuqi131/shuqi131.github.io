@@ -1443,26 +1443,27 @@ figure.cover {
 }
 
 
-// ===== 衬线字体 + 优化清晰度 =====
+
 body, p, h1, h2, h3, h4, h5, h6,
 .publications, .news, article, .post,
 .author, .title, li, span, em {
-  font-family: 'Charter', 'Source Serif Pro', 'Source Serif 4',
+  font-family: 'Charter', 'Source Serif Pro',
                'Iowan Old Style', 'Palatino', 'Georgia', 
                'PingFang SC', serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;          // 关键!优化字符渲染
-  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
-body, p, li {
-  line-height: 1.65 !important;                 // 行距收紧一点
-  color: #1a1a1a !important;                    // 改成接近纯黑,更清晰
-  font-size: 1.05rem !important;                // 略微放大正文
+// ===== 关键:加重颜色 + 加重字重 =====
+body, p, li, span, div {
+  line-height: 1.65 !important;
+  color: #000000 !important;       // 纯黑,最清晰
+  font-size: 1.05rem !important;
+  font-weight: 450 !important;     // 比正常稍粗一点(普通是 400)
 }
 
-// 让 h1 标题不要那么粗,和衬线字体更搭
-h1 {
-  font-weight: 600 !important;                  // 从 700 降到 600
+h1, h2, h3 {
+  color: #000000 !important;
+  font-weight: 700 !important;
 }
