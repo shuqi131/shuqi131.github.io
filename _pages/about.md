@@ -10,7 +10,7 @@ profile:
   more_info: |
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false
+social: true
 
 announcements:
   enabled: true # includes a list of news items
