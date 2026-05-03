@@ -1425,23 +1425,15 @@ figure.cover {
 }
 
 
-// ===== 标题样式 =====
-.news h2,
-.news h2 a {
+article > h2,
+article > h2 a {
   font-weight: 700 !important;
-  font-size: 1.2rem !important;
+  font-size: 1.4rem !important;
   color: var(--global-text-color) !important;
   text-align: left !important;
   text-decoration: none !important;
+  border-bottom: none !important;
 }
-
-.publications > h1 {
-  font-weight: 700 !important;
-  font-size: 1.2rem !important;
-  color: var(--global-text-color) !important;
-  text-align: left !important;
-}
-
 
 
 body, p, h1, h2, h3, h4, h5, h6,
