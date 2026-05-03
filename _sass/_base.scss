@@ -1425,11 +1425,7 @@ figure.cover {
 }
 
 
-// ===== 强制覆盖所有标题样式 =====
-h1, h2, h3,
-h1 a, h2 a, h3 a,
-.publications h1,
-.publications h2,
+// News 标题
 .news h2,
 .news h2 a {
   font-weight: 700 !important;
@@ -1439,3 +1435,10 @@ h1 a, h2 a, h3 a,
   text-decoration: none !important;
 }
 
+// Publications 
+.publications > h1 {
+  font-weight: 700 !important;
+  font-size: 1.4rem !important;
+  color: var(--global-text-color) !important;
+  text-align: left !important;
+}
