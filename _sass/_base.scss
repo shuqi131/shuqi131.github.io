@@ -1442,18 +1442,27 @@ figure.cover {
   text-align: left !important;
 }
 
-// ===== 衬线字体方案 (Charter 风格) =====
+
+// ===== 衬线字体 + 优化清晰度 =====
 body, p, h1, h2, h3, h4, h5, h6,
 .publications, .news, article, .post,
 .author, .title, li, span, em {
-  font-family: 'Charter', 'Source Serif Pro', 'Source Serif 4', 
-               'Iowan Old Style', 'Apple Garamond', 'Palatino', 
-               'Georgia', 'PingFang SC', serif !important;
+  font-family: 'Charter', 'Source Serif Pro', 'Source Serif 4',
+               'Iowan Old Style', 'Palatino', 'Georgia', 
+               'PingFang SC', serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;          // 关键!优化字符渲染
+  -webkit-text-size-adjust: 100%;
 }
 
-body, p {
-  line-height: 1.7 !important;
-  color: #2d2424 !important;   // 深棕色,像图上那种
+body, p, li {
+  line-height: 1.65 !important;                 // 行距收紧一点
+  color: #1a1a1a !important;                    // 改成接近纯黑,更清晰
+  font-size: 1.05rem !important;                // 略微放大正文
+}
+
+// 让 h1 标题不要那么粗,和衬线字体更搭
+h1 {
+  font-weight: 600 !important;                  // 从 700 降到 600
 }
