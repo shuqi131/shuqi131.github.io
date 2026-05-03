@@ -1456,7 +1456,7 @@ body, p, h1, h2, h3, h4, h5, h6,
 }
 
 // ===== 关键:加重颜色 + 加重字重 =====
-body, p, li, span, div {
+body, p, li {
   line-height: 1.65 !important;
   color: #000000 !important;       // 纯黑,最清晰
   font-size: 1.05rem !important;
@@ -1470,12 +1470,10 @@ h1, h2, h3 {
 
 
 // ===== 强制恢复名字标题大小 =====
-.post-header h1,
-.post-title,
-header.post-header h1 {
-  font-size: 2rem !important;          // 大标题
+// 名字标题
+h1.post-title,
+h1.post-title span {
+  font-size: 2rem !important;
   font-weight: 700 !important;
-  margin-top: 0 !important;
-  margin-bottom: 1.5rem !important;
   color: #000000 !important;
 }
