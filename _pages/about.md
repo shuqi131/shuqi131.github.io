@@ -8,7 +8,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular 
   more_info: >
-    <p>
+    <p style="text-align: center;">
       <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl">Google Scholar</a> |
       <a href="https://dblp.org/pid/150/6805-2.html">DBLP</a> |
       <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
