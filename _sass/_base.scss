@@ -1441,3 +1441,16 @@ figure.cover {
   color: var(--global-text-color) !important;
   text-align: left !important;
 }
+
+body, p, h1, h2, h3, h4, h5, h6,
+.publications, .news, article, .post,
+.author, .title, li {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 
+               'Segoe UI', 'PingFang SC', 'Helvetica Neue', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body, p {
+  line-height: 1.7 !important;
+}
