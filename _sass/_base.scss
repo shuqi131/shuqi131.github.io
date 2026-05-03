@@ -1442,15 +1442,18 @@ figure.cover {
   text-align: left !important;
 }
 
+// ===== 衬线字体方案 (Charter 风格) =====
 body, p, h1, h2, h3, h4, h5, h6,
 .publications, .news, article, .post,
-.author, .title, li {
-  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 
-               'Segoe UI', 'PingFang SC', 'Helvetica Neue', sans-serif !important;
+.author, .title, li, span, em {
+  font-family: 'Charter', 'Source Serif Pro', 'Source Serif 4', 
+               'Iowan Old Style', 'Apple Garamond', 'Palatino', 
+               'Georgia', 'PingFang SC', serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 body, p {
   line-height: 1.7 !important;
+  color: #2d2424 !important;   // 深棕色,像图上那种
 }
