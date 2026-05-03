@@ -1422,3 +1422,21 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// News 标题
+.news h2 {
+  font-weight: 700 !important;
+  font-size: 1.8rem !important;
+  color: var(--global-text-color) !important;
+}
+
+// Selected Publications 主标题(h1)
+.publications h1 {
+  font-weight: 700 !important;
+  font-size: 1.8rem !important;
+  color: var(--global-text-color) !important;
+  text-align: left !important;   // 默认是 center,改成左对齐和 News 一致
+  margin-top: 1.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
