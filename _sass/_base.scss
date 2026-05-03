@@ -1428,8 +1428,8 @@ figure.cover {
 // ===== News / Publications 章节标题 (排除年份) =====
 article > h2:not(.bibliography),
 article > h2:not(.bibliography) a {
-  font-weight: 780 !important;
-  font-size: 1.8rem !important;
+  font-weight: 790 !important;
+  font-size: 1.7rem !important;
   color: var(--global-text-color) !important;
   text-align: left !important;
   text-decoration: none !important;
@@ -1467,6 +1467,6 @@ h1, h2, h3 {
 h1.post-title,
 h1.post-title span {
   font-size: 2 rem !important;
-  font-weight: 780 !important;
+  font-weight: 790 !important;
   color: #000000 !important;
 }
