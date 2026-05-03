@@ -7,7 +7,12 @@ profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular 
-  more_info: |
+  more_info: >
+    <p>
+      <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> |
+      <a href="https://dblp.org/pid/YOUR_DBLP_ID">DBLP</a> |
+      <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false
