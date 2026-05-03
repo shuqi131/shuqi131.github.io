@@ -1467,3 +1467,15 @@ h1, h2, h3 {
   color: #000000 !important;
   font-weight: 700 !important;
 }
+
+
+// ===== 强制恢复名字标题大小 =====
+.post-header h1,
+.post-title,
+header.post-header h1 {
+  font-size: 2rem !important;          // 大标题
+  font-weight: 700 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.5rem !important;
+  color: #000000 !important;
+}
