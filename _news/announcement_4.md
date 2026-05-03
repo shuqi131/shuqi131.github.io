@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by `ICML'26`.
+One paper was accepted by ICML&#39;26.
