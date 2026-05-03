@@ -1483,3 +1483,19 @@ h1.post-title span {
   font-weight: 790 !important;
   color: #000000 !important;
 }
+
+
+
+// ===== 链接颜色:墨绿 (Oxford 风) =====
+a, a:visited {
+  color: #1d4a1d !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #0d3a0d !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+}
+
+
