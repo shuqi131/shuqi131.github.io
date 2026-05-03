@@ -19,7 +19,7 @@ announcements:
 
 ---
 
-Welcome! I am Shuqi Liu (刘书棋), a second-year PhD student supervised by [Prof. Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) and [Prof. Bo An](https://personal.ntu.edu.sg/boan/), at **College of Computing and Data Science (CCDS)**, **Nanyang Technological University (NTU)**, Singapore. My research interests lie in **trustworthy machine learning** and **uncertainty quantification**.
+Welcome! I am Shuqi Liu (刘书棋), a second-year PhD student supervised by [Prof. Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) and [Prof. Bo An](https://personal.ntu.edu.sg/boan/) at **College of Computing and Data Science (CCDS)**, **Nanyang Technological University (NTU)**, Singapore. My research interests lie in **trustworthy machine learning** and **uncertainty quantification**.
 
 Before joining NTU, I completed my Master’s degree in Statistics from Nankai University and my Bachelor's degree in Mathematics from China Agricultural University.
 
