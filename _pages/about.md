@@ -31,5 +31,5 @@ Previously, I completed my Master’s degree in Statistics from Nankai Universit
 My research interests lie in trustworthy machine learning and uncertainty quantification.
 
 
-📧 shuqi005\[at\]e.ntu.edu.sg
+
 
