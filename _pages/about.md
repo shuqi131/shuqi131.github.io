@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p style="text-align: center;">
       <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl">Google Scholar</a> |
-      <a href="https://dblp.org/pid/150/6805-2.html">DBLP</a> |
+      <a href="www.linkedin.com/in/shuqi-liu-4a96b1379">LinkedIn</a> |
       <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
     </p>
 
