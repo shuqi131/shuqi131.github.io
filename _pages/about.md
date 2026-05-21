@@ -8,9 +8,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular 
   more_info: >
-    <p style="text-align: center;">
-      <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl">Google Scholar</a> |
-      <a href="https://www.linkedin.com/in/shuqi-liu-4a96b1379/">LinkedIn</a>
+    <p style="text-align: center; white-space: nowrap;">
+      <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl=en">Google Scholar</a> |
+      <a href="https://www.linkedin.com/in/shuqi-liu-4a96b1379/">LinkedIn</a> |
       <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
     </p>
 
