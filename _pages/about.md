@@ -11,8 +11,6 @@ profile:
     <p style="text-align: center; white-space: nowrap; font-size: 0.9em; margin-top: 0.8em;">
       <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl=en">Google Scholar</a>
       &nbsp;|&nbsp;
-      <a href="https://openreview.net/profile?id=~Shuqi_Liu1">OpenReview</a>
-      &nbsp;|&nbsp;
       <a href="https://www.linkedin.com/in/shuqi-liu-4a96b1379/">LinkedIn</a>
       &nbsp;|&nbsp;
       <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
