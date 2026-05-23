@@ -8,14 +8,15 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular 
   more_info: >
-    <div style="text-align: center; min-width: 560px; margin: 0 auto;">
-      <p style="white-space: nowrap; font-size: 0.95em;">
-        <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl=en">Google Scholar</a> |
-        <a href="https://openreview.net/profile?id=~Shuqi_Liu2">OpenReview</a> |
-        <a href="https://www.linkedin.com/in/shuqi-liu-4a96b1379/">LinkedIn</a> |
-        <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
-      </p>
-    </div>
+    <p style="text-align: center; white-space: nowrap; font-size: 0.9em; margin-top: 0.8em;">
+      <a href="https://scholar.google.com/citations?user=wcKKTC8AAAAJ&hl=en">Google Scholar</a>
+      &nbsp;|&nbsp;
+      <a href="https://openreview.net/profile?id=~Shuqi_Liu1">OpenReview</a>
+      &nbsp;|&nbsp;
+      <a href="https://www.linkedin.com/in/shuqi-liu-4a96b1379/">LinkedIn</a>
+      &nbsp;|&nbsp;
+      <a href="mailto:shuqi005@e.ntu.edu.sg">Email</a>
+    </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false
