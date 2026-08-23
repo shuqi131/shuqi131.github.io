@@ -24,7 +24,7 @@ announcements:
 
 ---
 
-Welcome! I am Shuqi Liu (刘书棋), a second-year PhD student supervised by [Prof. Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) and [Prof. Bo An](https://personal.ntu.edu.sg/boan/) at College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore. 
+Welcome! I am Shuqi Liu (刘书棋), a PhD candidate supervised by [Prof. Luke Ong](https://www3.ntu.edu.sg/home/luke.ong/) and [Prof. Bo An](https://personal.ntu.edu.sg/boan/) at College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore. 
 
 Previously, I received a Master’s degree in Statistics from Nankai University, a Bachelor’s degree in Applied Mathematics from China Agricultural University, and a second Bachelor’s degree in Economics from Peking University.
 
