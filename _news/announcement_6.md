@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted to VLM4RWD workshop at NeurIPS 2026!
+Our paper was accepted to VLM4RWD Workshop at NeurIPS'26!
