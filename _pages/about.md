@@ -29,7 +29,7 @@ Welcome! I am Shuqi Liu (刘书棋), a PhD candidate supervised by [Prof. Luke O
 Previously, I received a Master’s degree in Statistics from Nankai University, a Bachelor’s degree in Applied Mathematics from China Agricultural University, and a second Bachelor’s degree in Economics from Peking University.
 
 My research interests lie in trustworthy machine learning and uncertainty quantification. More specifically, I am interested in:<br>
-• Learning to Defer: designing consistent loss functions and mitigating underfitting<br>
-• Uncertainty Quantification: particularly conformal prediction<br>
-• Efficient LLM Inference: learning routing policies to balance performance and cost
+&emsp;• Learning to Defer: designing consistent loss functions and mitigating underfitting<br>
+&emsp;• Uncertainty Quantification: particularly conformal prediction<br>
+&emsp;• Efficient LLM Inference: learning routing policies to balance performance and cost
 
